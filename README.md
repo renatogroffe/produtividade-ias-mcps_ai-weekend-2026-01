@@ -1,6 +1,8 @@
 # produtividade-ias-mcps_ai-weekend-2026-01
 Slides e conteúdos da apresentação "Produtividade no Desenvolvimento com IAs: descomplicando tarefas do dia a dia com MCP Servers".
 
+Tecnologias e tópicos abordados: **Inteligência Artificial, LLMs, MCP, AI Agents, Containers, Visual Studio Code, GitHub Copilot, .NET, Docker, NuGet, npm, Grafana k6, Docker MCP Catalog, Azure API Management, Microsoft Agent Framework, APIsec MCP Audit, GitHub Actions, Azure DevOps, PostgreSQL...**
+
 Exemplos utilizados:
 - [MCP Server de geração de dados fake criado com .NET 10 (pacote NuGet)](https://github.com/renatogroffe/dotnet10-nuget-mcp-fakedata)
 - [MCP Server de geração de dados fake criado com .NET 10 (container)](https://github.com/renatogroffe/dotnet10-consoleapp-mcp-fakedata)
