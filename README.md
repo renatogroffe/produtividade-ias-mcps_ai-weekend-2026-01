@@ -28,10 +28,10 @@ Exemplo incompleto de **mcp.json** (utilizado durante a demo):
 			],
 			"type": "stdio"
 		},
-    "github": {
-      "type": "http",
-      "url": "https://api.githubcopilot.com/mcp/"
-    }
+		"github": {
+		  "type": "http",
+		  "url": "https://api.githubcopilot.com/mcp/"
+		}
 	},
 	"inputs": [
 		{
